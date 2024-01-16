@@ -1,0 +1,10 @@
+{
+    "project_name": "blog",
+    "project_version": "0.1",
+    "sitemap": "sitemap.txt",
+    "index": "markdown/index.md",
+    "output": "built_doc",
+    "extra_assets": [
+        "assets"
+    ]
+}
